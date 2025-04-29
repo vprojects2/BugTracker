@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Node dependencies
+node_modules/
+
+# Uploaded files
+uploads/
+
+# Build output (if any)
+/build/
+/dist/
+
+# Logs
+logs/
+*.log
+
+# macOS files
+.DS_Store
